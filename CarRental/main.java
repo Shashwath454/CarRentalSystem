@@ -392,10 +392,10 @@ class Rental {
 
 public class Car
 {
-    private static final String url = "jdbc:mysql://localhost:3306/CAR";
+    private static final String url = "";
     private static final String username = "root";
-    private static final String password = "Kau_(shik)*1";
-    private static final String acesspassword="helloworld@109";
+    private static final String password = "";
+    private static final String acesspassword="";
     private static String name;
     private static String passname;
 
